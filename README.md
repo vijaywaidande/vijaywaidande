@@ -57,13 +57,12 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaywaidande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vijay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaywaidande&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaywaidande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vijay's Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaywaidande&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+</div>
 
 </div>
