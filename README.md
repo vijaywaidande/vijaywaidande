@@ -51,8 +51,7 @@
 | :--- | :--- | :--- |
 | **[Task Manager MERN](https://github.com/vijaywaidande/task-manager-mern)** | Full-stack task management platform with dynamic search, category filtering, and RESTful API backend. | React, Node.js, Express, MongoDB, Tailwind |
 | **[Platform Quiz](https://github.com/vijaywaidande/PlatformQuize)** | Role-based assessment application supporting Quiz creation, student administration, and live results. | React, Node.js, Express, SQLite |
-| **[DSA Solutions](https://github.com/vijaywaidande/GeeksforGeeksvijay)** | Repository of competitive programming and data structure challenge implementations. | C++, Python, DSA |
-
+|
 ---
 
 <div align="center">
