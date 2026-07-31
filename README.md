@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Vijay Waidande
 ### **Software Engineer | Full-Stack Developer | Data Science Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in/vijay-waidande-562b9a380)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-waidande-562b9a380?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaywaidande.pict@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vijay_Waidande)
 
@@ -30,6 +30,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### **Backend & Databases**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -58,7 +59,7 @@
 
 ### 📊 GitHub Stats
 
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaywaidande&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaywaidande&layout=compact&theme=tokyonight&hide_border=true)
+![Vijay's Stats](https://github-readme-stats.vercel.app/api?username=vijaywaidande&show_icons=true&theme=dracula&rank_icon=percentile&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaywaidande&layout=compact&theme=dracula&hide_border=true&langs_count=6)
 
 </div>
