@@ -59,7 +59,11 @@
 
 ### 📊 GitHub Stats
 
-![Vijay's Stats](https://github-readme-stats.vercel.app/api?username=vijaywaidande&show_icons=true&theme=dracula&rank_icon=percentile&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaywaidande&layout=compact&theme=dracula&hide_border=true&langs_count=6)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaywaidande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vijay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaywaidande&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 </div>
